@@ -1,0 +1,44 @@
+Quality Education.
+Health Education (Educate communities about hygiene, nutrition, and disease prevention).
+Auto build cv based on user educations, certifications, interactions, courses joined in..)
+Internship Creation. (search for internship for students based on cv built by courses he completed).
+Free courses (low-end certification) (Financial Literacy, health care, soft skills..)
+Paid courses (high-end certification) (AWS, GOOGLE, IBM, MICROSOFT..)
+updated education program. we can select the best educators to make them.
+make it easier for students to connect to each other and share files online. they can also talk to teachers
+Assessment and Monitoring. make it more funny to make assesssments by converting them as game (score so you can compete with your friends and earn points)
+Education Management Information Systems. (presence tracker, homework, courses learned, tests..)
+International Partnerships: Collaborate with global organizations, universities, and research institutions.
+Ai based e-school: the website track user movements and interests and understand his actions using Ai to customize education for better experience (custom education speed, custom courses, custom homeworks..) (paid option).
+Personalized Learning Paths: Utilize AI algorithms to analyze each student's learning style, strengths, and weaknesses to tailor a personalized learning path for them.
+Automated Grading: AI can grade assignments, freeing teachers to focus on mentoring and individualized support.
+Gamification: Expand gamification beyond assessments to include the entire learning experience, with points, badges, and rewards for completing tasks, participating in discussions, and achieving milestones.
+Self-Paced Learning: Students learn at their own speed, reinforcing understanding.
+Exams are passed in real life so no one can cheat from his home.
+Data Insights: student receive real-time analytics on his progress.
+Rich Multimedia: Electronic schools offer interactive videos, simulations.
+Social Interaction: Balance online learning with social development. (make friends on the same platform and exchange files, chatting..)
+Career Guidance and Mentorship: Offer guidance on career paths based on individual interests and skills, and connect students with mentors in their chosen fields.
+Offline Learning Support: Develop offline resources, such as downloadable course materials and study guides, for students who may have limited internet access or prefer to study offline.
+AI-Powered Curriculum Design: Use AI algorithms to analyze educational trends, job market demands, and student feedback to inform the design and development of new courses and curriculum updates.
+
+
+Global Reach: Electronic schools can transcend geographical barriers. Students in remote areas gain access to quality education.
+Affordability: Reduced infrastructure costs make education more affordable.
+Paperless Environment: Reduced paper usage benefits the environment.
+Scalability: Electronic schools can accommodate large student populations efficiently.
+
+
+
+
+kifech najjmou n7a9e9ou el haja hedhi.
+ki njiw nfakkrou feha el bou yechri el adawet lsgharou w tabliya w tarsim w lmasrouf adheka lkollou. ken yechri pc lweldou w y5alles internet yatla3 reba7 bin el 5-10 snin without specs upgrade.
+yaani mathematiquement yatla3 reba7 adh3af ki yechri pc fi blaset ktob kol 3am w kartaba w adawet 7atta ken fa9r lel darja adhika el dawla 9adra taati i3anet 5ater el platforme hedhi bech tratta7ha men barcha masrouf e5er.
+nes lkoll taw aanndha l'accées 3al internet so nes lkoll tnajjem testa3mel el app without problems. even thogh n9oulou yoskn fi 5le w tay7a bih w saretlou dhourouf lkoll ynajjem yemchi lel fac/lycée mteeou w y7ell pc w ya9ra ghadi
+
+chnowa rba7na?
+l'etudiant fi blaset ma yesta3mel karahba bech youssel lel walla ay naw3 mtaa transport fac. automatiquement nkounou na99asna bel talaweth el bi2i w 7arebna el in7ibes l7arari.
+bech tkoun famma app lel mobile win tkoun feha el hajet el bsita. simple tasks w notificatios w cours bech win yemchi mayal9ach 3odhr li mal9ach kifech ya9ra.
+
+
+tnajjem bledna tousel tekri el app lel bolden lo5rin
